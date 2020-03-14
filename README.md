@@ -270,8 +270,7 @@ $$
 w_t(i)=\frac{\widetilde{w}_t(i)^{\gamma_t}}{\sum_j \widetilde{w}_t(j)^{\gamma_t}}
 $$
 例如：
-
-<img src="https://cdn.nlark.com/yuque/0/2020/png/411733/1584201467961-0ce1afb2-e9a6-4899-b9c4-92740294e28b.png" alt="image.png" style="zoom:45%;" />
+![img](https://cdn.nlark.com/yuque/0/2020/png/411733/1584201467961-0ce1afb2-e9a6-4899-b9c4-92740294e28b.png)
 
 经过锐化处理后w<sub>t</sub>不同元素直接的差异变得更明显了（即变得“尖锐”了），内存操作焦点将更加突出。
 
